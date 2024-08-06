@@ -1,5 +1,7 @@
 -- for create database
 sqlite3 test.db;
+or
+sqlite3
 
 -- for open database
 .open test.db
